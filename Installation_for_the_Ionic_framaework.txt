@@ -1,0 +1,21 @@
+Installation for the ionic framework
+software need to be installed
+1)JAVA envinronmnets
+2)Android studio
+3)Nodejs
+4)cordova
+
+*********************
+Steps to install 
+1).check in commond prompt by using the command below:
+node -v
+npm -v (for verifying the installation)
+IF varified 
+2)install cordova by below command:
+npm install -g @ionic/cli cordova
+
+3)after installing check for 
+ionic -v
+cordova -v 
+for verification
+ 
